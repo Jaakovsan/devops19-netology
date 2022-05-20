@@ -45,4 +45,10 @@
 #    Initial commit
 #
 #--------Work with tags-----
-
+#commit 6e30f101a95c23032836cdb6a09ac9ffc0b17d4a (HEAD -> main)
+#Author: YakovGubenko <jaakovson@gmail.com>
+#Date:   Fri May 20 12:02:11 2022 +0300
+#
+#    change 1 work with tags
+#
+#    change 2 where I change README.md
