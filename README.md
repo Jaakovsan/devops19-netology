@@ -10,3 +10,5 @@
 # - все файлы с "расширением" .tfvars и  .tfvars.json
 # - файлы override.tf b override.tf.json, а так же все файлы оканчивающиеся _override.tf и _override.tf.json
 # - скрытый файл .terraformrc и файл terraform.rc 
+#
+# -----add new line in this file----
